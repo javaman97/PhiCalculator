@@ -9,6 +9,9 @@
 
 An Android app that calculates the Phi Harmony Golden Ratio - Made with Kotlin, MP Chart Library and Material 3 Design <a href="https://github.com/PhilJay/MPAndroidChart">MP Chart Library</a>.
 
+## Google PlayStore
+ https://play.google.com/store/apps/details?id=com.helikopter.piecalculator
+ 
 ## Screenshots
 <p align="center">
   <img src="https://github.com/javaman97/PieCalculator/assets/75328768/b4035081-a0f8-4edd-8aa4-e5934be24adc" width="350"/> 
